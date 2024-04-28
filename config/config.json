@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "testingqtasnim",
+    "database": "qtasnim",
+    "host": "34.128.64.249",
+    "dialect": "mysql"
+  }
+}
